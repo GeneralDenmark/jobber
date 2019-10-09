@@ -1,4 +1,4 @@
-# Maintainer: Asger Weirsøe <asger@weirsoe.com>
+# Maintainer: Asger Weirsøe <asger@weirsoe.dk>
 pkgname=jobber
 pkgver=1.4.0
 pkgrel=1
