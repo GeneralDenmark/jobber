@@ -1,4 +1,5 @@
 # Maintainer: Asger Weirsøe <asger@weirsoe.dk>
+# Contributer: Alex Garcia <thekyz@gmail.com>
 pkgname=jobber
 pkgver=1.4.0
 pkgrel=1
