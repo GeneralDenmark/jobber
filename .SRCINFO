@@ -1,0 +1,12 @@
+pkgbase = jobber
+	pkgdesc = jobber
+	pkgver = 1.4.0
+	pkgrel = 1
+	url = http://dshearer.github.io/jobber/
+	install = .install
+	arch = x86_64
+	license = MIT
+	source = https://github.com/dshearer/jobber/releases/download/v1.4.0/jobber-1.4.0-1.el7.x86_64.rpm
+        md5sums = 8741abd53187b54e6f92fbcd0ca3afe39
+
+pkgname = jobber
